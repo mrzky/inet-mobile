@@ -13,7 +13,7 @@
     "axios": "^0.19.0",
     "moment": "^2.24.0",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-extra-dimensions-android": "^1.2.5",
     "react-native-floating-action": "^1.19.1",
     "react-native-gesture-handler": "^1.4.1",
